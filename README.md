@@ -25,12 +25,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![images/Screenshot_1.jpg](./screenshot.jpg)
+![images/Screenshot_2.jpg](./screenshot.jpg)
+![images/Screenshot_3.jpg](./screenshot.jpg)
+![images/Screenshot_4.jpg](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/BenChi3D/fylo-landing-page-with-two-column-layout-master)
+- Live Site URL: [live site URL](https://benchi3d.github.io/fylo-landing-page-with-two-column-layout-master)
 
 ## My process
 
